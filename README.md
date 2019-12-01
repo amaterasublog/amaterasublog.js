@@ -1,0 +1,1 @@
+# amaterasublog.js
