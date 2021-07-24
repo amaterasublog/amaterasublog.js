@@ -1,0 +1,1 @@
+var iframeslazy = document.querySelectorAll("iframe");for (var i = 0; i < iframeslazy.length; i++) {iframeslazy[i].setAttribute("loading","lazy");};
